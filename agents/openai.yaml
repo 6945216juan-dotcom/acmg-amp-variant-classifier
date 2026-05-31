@@ -1,0 +1,3 @@
+display_name: ACMG/AMP Variant Classifier
+short_description: Germline variant ACMG scoring.
+default_prompt: Classify this germline variant using ACMG/AMP 2015 evidence codes plus Bayesian point scoring, and list missing evidence if data are incomplete.
